@@ -1,0 +1,11 @@
+PROJETO GRAU 2 — PÁGINA DE VENDA
+
+Este ZIP contém duas versões:
+
+1. site-pronto/
+   Versão compilada, pronta para hospedagem estática. Envie todo o conteúdo desta pasta para a raiz do seu serviço de hospedagem e mantenha a pasta assets junto do index.html.
+
+2. codigo-fonte/
+   Código-fonte React + Vite e imagens usadas pela página. O package.json foi exportado do workspace Replit; para editar e compilar, use o projeto dentro do workspace original. Para apenas publicar, use site-pronto/.
+
+O site inclui o Meta Pixel e o vídeo incorporado do Vimeo; esses recursos externos precisam de conexão com a internet.
